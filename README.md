@@ -7,3 +7,4 @@ HackBio is a 5-week virtual research internship that is practice-oriented and fo
 4. Praise
 5. Marvelous
 6. Oluwatosin Orababa 
+7. Cynthia Orinda
